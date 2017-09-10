@@ -15,7 +15,9 @@ This is a hardware project with PCB design file in Eagle.
 
 ## License
 
-Licensed under CERN OHL v.1.2 or later http://ohwr.org/cernohl No warranty is provided for this documentation implied or otherwise.
+Hardware is Licensed under CERN OHL v.1.2 or later https://www.ohwr.org/documents/294 No warranty is provided for this documentation implied or otherwise.
+
+Software is licensed under MIT License
 
 ## Acknowledgments
 
